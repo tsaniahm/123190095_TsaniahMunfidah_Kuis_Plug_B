@@ -20,6 +20,9 @@ class _SongsPageState extends State<SongsPage> {
           child: Column(
             children: [
               Image.network('https://i.scdn.co/image/ab67616d00001e02b55d26c578e30129b0a7e86e', width: 200),
+              Text('Manusia'),
+              Text('Tulus'),
+              Text('Mar 3, 22'),
             ],
           ),
         ),
